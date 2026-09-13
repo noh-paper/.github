@@ -1,6 +1,5 @@
 # Information Security Portfolio
 
----
 
 ## 성장하는 인재, 노정희 입니다 :)
 
